@@ -1,4 +1,4 @@
-(module 5600200220 locked (layer F.Cu) (tedit 5BA74EEB)
+(module 5600200220 (layer F.Cu) (tedit 5BA89308)
   (attr smd)
   (fp_text reference REF** (at 0 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
