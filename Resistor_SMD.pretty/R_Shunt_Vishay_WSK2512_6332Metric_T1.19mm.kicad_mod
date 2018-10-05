@@ -1,4 +1,4 @@
-(module R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm (layer F.Cu) (tedit 5BB2CE60)
+(module R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm (layer F.Cu) (tedit 5BB59F7B)
   (descr "Shunt Resistor SMD 2512 (6332 Metric), 2.6mm thick, Vishay WKS2512, Terminal length (T) 1.19mm, 5 to 200 milli Ohm (http://http://www.vishay.com/docs/30108/wsk.pdf)")
   (tags "resistor shunt WSK2512")
   (attr smd)
@@ -33,7 +33,7 @@
   (pad I2 smd roundrect (at 2.985 0.635) (size 2.29 2.03) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.12))
   (pad E1 smd roundrect (at -3.43 1.27) (size 1.4 0.76) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.12))
   (pad E2 smd roundrect (at 3.43 -1.27) (size 1.4 0.76) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Resistor_SMD.3dshapes/R_Shunt_Vishay_WSK2512_6332Metric_T1.19mm.wrl
+  (model /home/yankee/kicad-libraries/kicad-packages3D/Resistor_SMD.3dshapes/R_2512_6332Metric.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
