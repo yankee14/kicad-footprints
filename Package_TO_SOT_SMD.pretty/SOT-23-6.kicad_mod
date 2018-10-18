@@ -1,4 +1,4 @@
-(module SOT-23-6 (layer F.Cu) (tedit 5BB5A32B)
+(module SOT-23-6 (layer F.Cu) (tedit 5A02FF57)
   (descr "6-pin SOT-23 package")
   (tags SOT-23-6)
   (attr smd)
@@ -28,7 +28,7 @@
   (pad 4 smd rect (at 1.1 0.95) (size 1.06 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 1.1 -0.95) (size 1.06 0.65) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 1.1 0) (size 1.06 0.65) (layers F.Cu F.Paste F.Mask))
-  (model /home/yankee/kicad-libraries/kicad-packages3D/Package_TO_SOT_SMD.3dshapes/SOT-23-6.step
+  (model ${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
