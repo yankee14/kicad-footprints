@@ -1,5 +1,5 @@
-(module SO-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5EDEF104)
-  (descr "SO, 16 Pin (https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf#page=13), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module SO-16_3.9x9.9mm_P1.27mm (layer F.Cu) (tedit 5E888720)
+  (descr "SO, 16 Pin (https://www.nxp.com/docs/en/package-information/SOT109-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SO SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.9) (layer F.SilkS)
