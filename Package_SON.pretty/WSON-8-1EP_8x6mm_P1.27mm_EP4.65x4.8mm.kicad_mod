@@ -1,4 +1,4 @@
-(module WSON-8-1EP_8x6mm_P1.27mm_EP4.65x4.8mm (layer F.Cu) (tedit 6021F25F)
+(module WSON-8-1EP_8x6mm_P1.27mm_EP4.65x4.8mm (layer F.Cu) (tedit 602204F6)
   (descr "WSON, 8 Pin (https://www.cypress.com/file/316171/download), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "WSON NoLead")
   (attr smd)
